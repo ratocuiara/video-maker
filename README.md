@@ -1,2 +1,8 @@
-# video-maker
-Projeto para fazer videos automatizados
+# Credentials format
+
+## Algorithmia
+
+File: `algorithmia.json`
+
+```
+```
