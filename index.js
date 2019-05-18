@@ -25,4 +25,6 @@ async function start() {
 
 	console.log(content)
 }
+//teste
 start()
+
